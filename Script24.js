@@ -71,3 +71,10 @@ let student = [
 // console.log(student)
 
 //==========================================================================
+
+
+// ["js","selenium","selenium","selenium"]
+//["java", "selenium", "selenium"]
+
+
+//
