@@ -77,4 +77,49 @@ let student = [
 //["java", "selenium", "selenium"]
 
 
+// let arr = [12, 45, 78, 90]
+
+// //100
+// console.log(arr.fill(100,1))
+
+// student.forEach(function(el){
+//     console.log(el.skill.fill("selenium",1))
+// })
+
+//   userName:"mayuri-katwe"
+
+
+//[mayuri, katwe]. join("-")  => mayuri-katwe
+
+
+// let d2 = student.map(function (el) {
+//     return  el.fullName = el.firstName + el.lastName
+// })
+
+// console.log(d2)
+// console.log(student)
+
 //
+
+//skill: ["js", "py", "cy", 'HTML']
+
+//javaOne, pythonOne
+
+// student.forEach((el)=>{
+//     el.skill.splice(0,2,"javaOne","pythonOne")
+// })
+
+// console.log(student)
+
+student.forEach((el)=>{
+    el.skill.reverse()
+})
+console.log(student)
+
+
+
+
+
+
+
+
